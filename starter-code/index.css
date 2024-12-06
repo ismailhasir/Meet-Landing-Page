@@ -101,6 +101,14 @@ body {
   transition: 5ms;
 }
 
+.button1-version-text {
+  color: var(--cyan-300);
+}
+
+.button2-version-text {
+  color: var(--purple-300);
+}
+
 .whatisit-button {
   background: var(--purple-600);
   color: var(--white);
