@@ -2,4 +2,4 @@
 
 ![Design preview for the Meet landing page coding challenge](./preview.jpg)
 
-Live Preview:
+Live Preview: https://ismailhasir-meet-landing-page.netlify.app/
